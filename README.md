@@ -13,7 +13,9 @@ The dataset used in this spotlight is collected from publication dataset of <i>d
 Here I worked in three steps: <br>
 * __Task 1__ : Setup <br>
 * __Task 2__ : Data Loading, Exploration, and Preprocessing <br>
-* __Task 3__ : 
+* __Task 3__ : Data Preprocessing
+* __Task 4__ : Article Recommendation Using Bag-of-Words
+* __Task 5__ : Article Recommendation Using TF-IDF
 
 ### References ###
 1. Ricci F, Rokach L, Bracha S, Kantor PB. Recommender Systems Handbook. Boston, USA: Springer.
